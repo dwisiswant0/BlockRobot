@@ -1,5 +1,5 @@
 # BlockRobot
-BlockRobot is An Android App to Block Flood Phone Call 
+BlockRobot is An Android App to Block Phone Call Flood.
 (You need to Edit blocked_fingerprints Phone numbers at IncomingCallReceiver.java)
 
 Edit these fingerprints to match your blocked phone numbers
